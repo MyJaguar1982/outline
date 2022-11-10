@@ -26,6 +26,8 @@ If you have questions or improvements for the docs please create a thread in [Gi
 
 # Development
 
+[![Cloud Studio Template](https://cs-res.codehub.cn/common/assets/icon-badge.svg)](https://cloudstudio.net/templates/h7GxW3CDOhQ)
+
 There is a short guide for [setting up a development environment](https://app.getoutline.com/share/770a97da-13e5-401e-9f8a-37949c19f97e/doc/local-development-5hEhFRXow7) if you wish to contribute changes, fixes, and improvements to Outline.
 
 ## Contributing
